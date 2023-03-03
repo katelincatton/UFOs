@@ -1,4 +1,4 @@
-# UFOs
+# UFO Sightings
 JavaScript, HTML, & CSS
 ***
 Overview
