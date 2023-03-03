@@ -22,4 +22,5 @@ This webpage is great for a simple view of the data, however, even with the avai
 2. Within the webpage, I would suggest allowing for the Data filter to accept data intervals instead of a singular date. For example, instead of searching for “1/10/2010” specially, you would be able to search the UFO sightings that entire week from “1/10/2010 to 1/7/2010”. This allows for a flexible filter option for the viewer.
 ---
 Data Analysis Performed by Katelin Catton
+---
 3/2/2023
