@@ -3,7 +3,10 @@ JavaScript, HTML, & CSS
 ***
 Overview
 ---
-The purpose is to build a successful webpage via JavaScript, HTML, and CSS styling. The webpage was built up from scratch, meaning that we created the title, background image, body, table, and more with the help of html. The data examines possible UFO sightings, which contain variables such as date, city, state, country, shape, duration, and additional comments for each sighting. With these variables, the UFO sightings are well-defined. However, to dive deeper, we have created filter options for the table to narrow down the data.
+The purpose is to build a successful webpage via JavaScript, HTML, and CSS styling. The webpage was built up from scratch, meaning that we created the title, background image, body, table, and more with the help of html. The main landing page can be seen below. The data examines possible UFO sightings, which contain variables such as date, city, state, country, shape, duration, and additional comments for each sighting. With these variables, the UFO sightings are well-defined. However, to dive deeper, we have created filter options for the table to narrow down the data.
+---
+![Landing_Page](https://user-images.githubusercontent.com/119131202/222604125-0a133577-4c7a-4a9a-912f-5bcbb54f8cc4.PNG)
+
 ***
 Results
 ---
